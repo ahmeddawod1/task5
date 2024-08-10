@@ -1,0 +1,10 @@
+.ourteam{
+text-align: center;
+}
+.team{
+    float: left;
+    width: 30%;
+}
+.clearfix{
+    clear: both;
+}
